@@ -294,7 +294,7 @@ We now have a physically coherent, domain-neutral definition of health that exte
 
 ## 5. Worked Examples
 
-To illustrate the QIH model in action, we present four diverse scenarios where entropy management and boundary resilience vary significantly. These examples are simplified and use estimated or normalized values for clarity.
+To illustrate the QIH model in action, we present four diverse scenarios where entropy management and boundary resilience vary significantly. These examples are simplified and use estimated or normalized values for clarity. These are intended to provide the reader with directional application of the equation. Detailed applications of QIH can be found in the associated papers that follow this one.
 
 Each example includes:
 
