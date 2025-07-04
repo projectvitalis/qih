@@ -1,3 +1,4 @@
+
 # Project VITALIS
 
 **A thermodynamic framework for understanding system health**
@@ -35,18 +36,31 @@ The central quantity in this work is **QIH (Quantified Inference of Health)**—
 
 It is defined as:
 
-\[
+$$
 Q_{\text{ih}}(t) = B(t) \cdot \frac{d^2 \Phi(t)}{dt^2}
-\]
+$$
 
-Where:
+Where:  
 - \( \Phi(t) \) is the system’s entropy flux (J/K·s)  
 - \( B(t) \) is the boundary responsiveness factor (dimensionless)  
 - \( \frac{d^2 \Phi(t)}{dt^2} \) is the system’s acceleration in entropy export (J/K·s³)  
 
-Units: QIH is measured in joules per kelvin per second squared (J/K·s²).  
+**Units**: QIH is measured in joules per kelvin per second squared (J/K·s²).  
 This reflects how quickly and effectively a system accelerates its ability to reduce internal disorder.  
 High QIH = high adaptive health.
+
+---
+
+## Example Applications
+
+### Ecosystem Health  
+In the Amazon rainforest, QIH can be used to assess ecological resilience. A high QIH score reflects an intact boundary (e.g., biodiversity and hydrological feedbacks) and accelerating entropy export through complex energy cycling. A falling QIH may signal an approaching collapse threshold.
+
+### Human Physiology  
+In chronic disease, QIH can be used to detect metabolic rigidity. A low or declining QIH may reflect reduced physiological flexibility, delayed recovery, and failure to export entropy efficiently (e.g., impaired thermoregulation, sleep, or inflammation resolution).
+
+### AI Systems  
+In artificial intelligence, QIH may reflect a model’s ability to maintain boundary coherence and adapt to shifting inputs. A high QIH might suggest robust learning and entropy management at the edge of computational saturation. A system with rigid, fixed outputs may exhibit QIH collapse before failure.
 
 ---
 
