@@ -451,7 +451,7 @@ We focus on:
 
 | Domain        | Proxy for $\Phi(t)$                      | Units / Type                    |
 |---------------|------------------------------------------|---------------------------------|
-| Human biology | Heat output, CO₂ exhalation, HRV entropy | Watts, ppm/s, bits/s            |
+| Human biology | Heat output, CO₂ exhalation, HRV entropy | Watts, ppm/s, beats/s           |
 | Digital systems | CPU heat dissipation, network load     | J/s, packets/s, MB/s            |
 | Ecosystems    | Nutrient turnover, biomass decay         | gC/m²/day, W/m²                 |
 
