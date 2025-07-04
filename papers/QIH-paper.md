@@ -2,13 +2,13 @@
 
 What is health?
 
-Despite centuries of medical, biological, and philosophical inquiry, there is still no universal, quantitative definition of health that applies across systems. Clinical metrics offer partial answers—blood pressure, heart rate, glucose levels—but these are snapshots, not system-level explanations. At larger scales, we use terms like resilience, robustness, or capacity for adaptation, often without a consistent framework.
+Despite centuries of medical, biological, and philosophical inquiry, there is still no universal, quantitative definition of health that applies across systems. Clinical metrics offer partial answers with measurements like blood pressure, heart rate, and glucose levels, but these are snapshots, not system-level explanations. At larger scales, we use terms like resilience, robustness, or capacity for adaptation, often without a consistent framework.
 
 This paper proposes a new answer: **health is the capacity of a system to manage entropy adaptively, while preserving the integrity of its boundary**.
 
-We formalize this idea with a single equation, derived from first principles in thermodynamics. The resulting quantity—QIH (Quantified Inference of Health)—can be applied to any bounded system that processes energy, generates entropy, and maintains internal order: from organisms and machines to ecosystems and organizations.
+We formalize this idea with a single equation, derived from first principles in thermodynamics. The resulting quantity. called QIH (Quantified Inference of Health - "Chi") can be applied to any bounded system that processes energy, generates entropy, and maintains internal order: from organisms and machines to ecosystems and organizations.
 
-This work is part of a broader effort to build a unifying physical foundation for complex systems. We aim to show that health, like mass or temperature, is not just a metaphor—it is a measurable, dynamic, and predictive quantity.
+This work is part of a broader effort to build a unifying physical foundation for complex systems. We aim to show that health, like mass or temperature, is not just a metaphor but rather it is a measurable, dynamic, and predictive quantity.
 
 ### 1.1 Contributions
 
@@ -89,7 +89,7 @@ It is our view that health—like energy or entropy—is a fundamental property 
 
 We define **health** as a thermodynamic quantity: a system’s capacity to adaptively manage entropy while preserving the integrity of its boundary. Health can be measured in any bounded system that engages in energy and entropy exchange with its environment.
 
-This scope allows us to apply the model to a wide range of systems—biological, mechanical, digital, or ecological—whether active, dormant, or deteriorating.
+This scope allows us to apply the model to a wide range of systems like biological, mechanical, digital, or ecological systems, whether active, dormant, or deteriorating.
 
 ---
 
@@ -153,7 +153,7 @@ Where:
 The units of QIH are:
 
 $$
-[Q_{\text{ih}}] = \text{J/K·s}^2
+[Q_{\text{ih}}] = \text{J/K·s}^3
 $$
 
 This reflects the system’s **adaptive force**—its ability to adjust entropy export rapidly while preserving boundary function.
