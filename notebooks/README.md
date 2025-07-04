@@ -11,18 +11,23 @@ Q_{\text{ih}}(t) = \mathcal{B}(t) \cdot \frac{d^2 \Phi(t)}{dt^2}
 
 Where:
 
-- \( \Phi(t) \): Entropy flux — the rate of entropy exported from the system (units: J/K·s)  
-- \( \mathcal{B}(t) \): Boundary responsiveness — how well the system preserves structure under stress (unitless)  
-- \( \frac{d^2 \Phi(t)}{dt^2} \): Acceleration of entropy export (units: J/K·s³)
+$$\( \Phi(t) \)$$ 
+Entropy flux — the rate of entropy exported from the system (units: J/K·s)  
+
+$$\( \mathcal{B}(t) \)$$ 
+Boundary responsiveness — how well the system preserves structure under stress (unitless)  
+
+$$\( \frac{d^2 \Phi(t)}{dt^2} \)$$ 
+Acceleration of entropy export (units: J/K·s³)
 
 ---
 
 ## Units
 
 **QIH has units of:**  
-\[
+$$\[
 [J/K \cdot s^3]
-\]
+\]$$
 
 This represents **adaptive thermodynamic capacity** — how rapidly and effectively a system can adjust its entropy export in response to demand.  
 In plain terms: not just *doing*, but *adapting*.
@@ -68,7 +73,7 @@ Use included or custom entropy profiles to simulate:
 
 ## How to Use
 
-1. Open the notebook in [Google Colab](https://colab.research.google.com/)  
+1. Open the notebook in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1CBUYUHLn_6CGM7Tzrj_faQXnR3Il297R?usp=sharing))  
 2. Modify the entropy inputs and boundary factor  
 3. Run the cells to compute and visualize QIH  
 4. Use plots and outputs to understand system resilience
