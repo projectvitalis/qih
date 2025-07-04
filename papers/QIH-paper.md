@@ -323,7 +323,7 @@ Each example includes:
 **Calculation**:
 
 $$
-Q_{\text{ih}} = 0.8 \times (-0.5) = -0.4 \ \text{J/K·s}^2
+Q_{\text{ih}} = 0.8 \times (-0.5) = -0.4 \ \text{J/K·s}^3
 $$
 
 **Interpretation**:
@@ -352,7 +352,7 @@ $$
 **Calculation**:
 
 $$
-Q_{\text{ih}} = 0.95 \times 0.01 = 0.0095 \ \text{J/K·s}^2
+Q_{\text{ih}} = 0.95 \times 0.01 = 0.0095 \ \text{J/K·s}^3
 $$
 
 **Interpretation**:
@@ -381,7 +381,7 @@ $$
 **Calculation**:
 
 $$
-Q_{\text{ih}} = 0.3 \times 1.8 = 0.54 \ \text{J/K·s}^2
+Q_{\text{ih}} = 0.3 \times 1.8 = 0.54 \ \text{J/K·s}^3
 $$
 
 **Interpretation**:
@@ -410,7 +410,7 @@ $$
 **Calculation**:
 
 $$
-Q_{\text{ih}} = 0.1 \times (-3.0) = -0.3 \ \text{J/K·s}^2
+Q_{\text{ih}} = 0.1 \times (-3.0) = -0.3 \ \text{J/K·s}^3
 $$
 
 **Interpretation**:
