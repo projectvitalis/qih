@@ -1,1 +1,2 @@
-This folder will contain the formal Qih paper.
+Start with QIH Paper
+Then move through any other papers
