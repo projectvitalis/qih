@@ -11,13 +11,13 @@ Project VITALIS is an open, evolving framework that defines **health** in thermo
 
 This repository hosts the core papers, simulation tools, and supporting materials. It is designed to be accessible to both scientists and curious generalists.
 
-If you’re new to thermodynamics or complex systems, don’t worry—this work is designed to be explored one piece at a time. Start with the definitions or an example that interests you.
+If you’re new to thermodynamics or complex systems, don’t worry because this work is designed to be explored one piece at a time. Start with the definitions or an example that interests you.
 
 ---
 
 ## Why This Work Matters
 
-Most models of health focus on static traits, risk factors, or outcomes. This project takes a different approach: it proposes that health is a **capacity**—a system’s ability to manage entropy adaptively over time.
+Most models of health focus on static traits, risk factors, or outcomes. This project takes a different approach: it proposes that health is a **capacity** measure for a system’s ability to manage entropy adaptively over time.
 
 Entropy, in this context, refers to the degree of disorder or uncertainty in a system. Systems that can export entropy efficiently tend to survive and adapt; those that cannot tend to collapse.
 
@@ -32,7 +32,7 @@ This approach:
 
 ## Core Concept: QIH
 
-The central quantity in this work is **QIH (Quantified Inference of Health)**—a thermodynamic measure of a system’s adaptive capacity.
+The central quantity in this work is **QIH (Quantified Inference of Health)** which is a thermodynamic measure of a system’s adaptive capacity.
 
 It is defined as:
 
@@ -41,9 +41,14 @@ Q_{\text{ih}}(t) = B(t) \cdot \frac{d^2 \Phi(t)}{dt^2}
 $$
 
 Where:  
-- \( \Phi(t) \) is the system’s entropy flux (J/K·s)  
-- \( B(t) \) is the boundary responsiveness factor (dimensionless)  
-- \( \frac{d^2 \Phi(t)}{dt^2} \) is the system’s acceleration in entropy export (J/K·s³)  
+$$\( \Phi(t) \)$$
+is the system’s entropy flux (J/K·s)  
+
+$$\( B(t) \)$$ 
+is the boundary responsiveness factor (dimensionless)  
+
+$$\( \frac{d^2 \Phi(t)}{dt^2} \)$$ 
+is the system’s acceleration in entropy export (J/K·s³)  
 
 **Units**: QIH is measured in joules per kelvin per second squared (J/K·s²).  
 This reflects how quickly and effectively a system accelerates its ability to reduce internal disorder.  
@@ -53,14 +58,23 @@ High QIH = high adaptive health.
 
 ## Example Applications
 
-### Ecosystem Health  
-In the Amazon rainforest, QIH can be used to assess ecological resilience. A high QIH score reflects an intact boundary (e.g., biodiversity and hydrological feedbacks) and accelerating entropy export through complex energy cycling. A falling QIH may signal an approaching collapse threshold.
+QIH allows us to understand how seemingly very different systems such as sleep, markets, and rainforests maintain their integrity in the face of constant stress. These systems are not just vulnerable to collapse; they are also capable of remarkable adaptation and recovery. QIH captures both possibilities through the same thermodynamic lens.
 
-### Human Physiology  
-In chronic disease, QIH can be used to detect metabolic rigidity. A low or declining QIH may reflect reduced physiological flexibility, delayed recovery, and failure to export entropy efficiently (e.g., impaired thermoregulation, sleep, or inflammation resolution).
+### Sleep as Adaptive Maintenance  
+Sleep is not passive. It is a phase of intense entropy regulation: the brain clears waste, rebalances signalling thresholds, and consolidates information. When QIH is high, sleep cycles are efficient, restorative, and aligned with environmental rhythms. Low QIH may manifest as fragmented sleep, chronic fatigue, or inflammatory overload. Improving QIH through sleep hygiene or circadian alignment supports long-term system survival and performance.
+
+### Markets as Adaptive Information Engines  
+Healthy financial markets process uncertainty and reallocate resources dynamically. High-QIH markets show flexible boundary responses (e.g. policy tools, sentiment feedback) and accelerating entropy export through liquidity and innovation. This keeps disorder in check. In contrast, rigid or over-leveraged markets may show declining QIH—an early signal of systemic fragility. QIH allows us to model both resilience and instability in economic systems.
+
+### Rainforests as Self-Stabilizing Networks  
+Tropical rainforests manage vast energy and water flows through dense biological feedback. A high-QIH rainforest shows strong boundary responsiveness (e.g. evapotranspiration, pollinator webs) and rising entropy throughput. This supports biodiversity and climate stability. When pressures like deforestation reduce QIH, the system becomes less responsive—eventually tipping into a drier, degraded state. But interventions that strengthen boundary feedbacks can raise QIH and restore stability.
 
 ### AI Systems  
 In artificial intelligence, QIH may reflect a model’s ability to maintain boundary coherence and adapt to shifting inputs. A high QIH might suggest robust learning and entropy management at the edge of computational saturation. A system with rigid, fixed outputs may exhibit QIH collapse before failure.
+
+---
+
+These examples show how QIH models not only collapse, but also how they flourish. It reveals the physical logic behind resilience: the ability of a system to respond, adapt, and reorganize in ways that preserve or enhance function over time.
 
 ---
 
@@ -77,7 +91,7 @@ Each paper applies the QIH framework to a different domain. All are written in c
 ### Simulator
 An interactive Colab notebook lets you test and visualize the model. You can plug in your own assumptions and observe how entropy dynamics affect system health.
 
-The simulator is a conceptual tool, not a forecasting engine. It helps you explore how a system *might behave* under different entropy conditions—not predict what *will happen* in reality.
+The simulator is a conceptual tool, not a forecasting engine. It helps you explore how a system *might behave* under different entropy conditions and does not predict what *will happen* in reality.
 
 ---
 
@@ -88,7 +102,7 @@ The simulator is a conceptual tool, not a forecasting engine. It helps you explo
 3. Open the simulator to experiment with QIH under different conditions.  
 4. Explore the definitions to understand the model in full detail.  
 
-This project is modular. You can engage with it as a scientific framework, a conceptual model, or an exploratory tool.
+This project is modular. You can engage with it as a scientific framework, a conceptual model, or an exploratory tool. However you decide to engage with it is up to you, and we ask that you let us know what you learn along the way. We are listening.
 
 ---
 
@@ -104,8 +118,6 @@ This project is modular. You can engage with it as a scientific framework, a con
 ## Citation and Licensing
 
 This work is published under an open licence. All material is free to use, adapt, and build upon with attribution. See the LICENSE file for details.
-
-Formal citations can be generated via [Zenodo] or arXiv once published.
 
 ---
 
