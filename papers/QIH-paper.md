@@ -284,7 +284,7 @@ This formulation satisfies several critical requirements:
 - It is **dimensionally valid**:  
   - $\frac{d^2 \Phi}{dt^2}$ has units of J/K·s³  
   - $\mathcal{B}(t)$ is unitless  
-  - So $Q_{\text{ih}}(t)$ has units of J/K·s²
+  - So $Q_{\text{ih}}(t)$ has units of J/K·s³
 
 - It generalizes across systems: the same logic applies to biological tissues, AI systems, ecological regions, and more.
 
