@@ -5,9 +5,9 @@ This notebook simulates **QIH**, a thermodynamic signal of adaptive health capac
 
 QIH is defined as:
 
-\[
+$$\[
 Q_{\text{ih}}(t) = \mathcal{B}(t) \cdot \frac{d^2 \Phi(t)}{dt^2}
-\]
+\]$$
 
 Where:
 
