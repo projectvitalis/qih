@@ -41,7 +41,7 @@ Entropy flux, $\Phi(t)$, has long been used to model thermal regulation, metabol
 
 ### 2.2 Health as Resilience
 
-Contemporary models of health increasingly emphasize **resilience**—the ability to recover from perturbation [18]. In medicine, this appears in heart rate variability (HRV), stress response, and the concept of allostasis [17].
+Contemporary models of health increasingly emphasize **resilience**, or the ability to recover from perturbation [18]. In medicine, this appears in heart rate variability (HRV), stress response, and the concept of allostasis [17].
 
 However, resilience is often qualitative, lacking a unified formal definition. Existing metrics are domain-specific and difficult to compare.
 
@@ -81,7 +81,7 @@ This paper does not attempt to replace existing measures. Instead, it offers:
 - A **base layer** that can unify diverse signals  
 - A **cross-domain metric** with both scientific and practical value
 
-It is our view that health—like energy or entropy—is a fundamental property of systems. QIH is our first attempt to define and measure it.
+It is our view that health, like energy or entropy, is a fundamental property of systems. QIH is our first attempt to define and measure it.
 
 ## 3. Formal Definition of Health (QIH)
 
@@ -164,7 +164,7 @@ This reflects the system’s **adaptive force**—its ability to adjust entropy 
 
 Why define health using the second derivative of entropy flux? Why not just use $\Phi(t)$ or its first derivative $\frac{d\Phi}{dt}$?
 
-Because health is not just about entropy flow—it’s about **the ability to adjust that flow**.
+Because health is not just about entropy flow. It’s about **the ability to adjust that flow**.
 
 - $\Phi(t)$: how much entropy is exported  
 - $\frac{d\Phi}{dt}$: whether that export is increasing or decreasing  
@@ -193,7 +193,7 @@ This second derivative gives us a **curvature measure**: a signal of dynamic ada
 
 To understand health as a physical quantity, we begin with entropy.
 
-Every bounded system—whether a human body, a machine, or an ecosystem—generates and exports entropy as it functions. The rate and flexibility of this entropy export shape the system’s ability to remain ordered, functional, and resilient in the face of stress.
+Every bounded system, whether a human body, a machine, or an ecosystem, generates and exports entropy as it functions. The rate and flexibility of this entropy export shape the system’s ability to remain ordered, functional, and resilient in the face of stress.
 
 In this context, **health is not a static condition** but a dynamic property: the capacity to **modulate entropy flow adaptively**, while preserving the structural and functional boundaries that define the system.
 
@@ -231,7 +231,7 @@ Health, then, is related to **how well the system controls $\Phi(t)$** in respon
 
 ### 4.3 Boundary Stability and Entropy Adaptation
 
-A healthy system must do more than shed entropy—it must do so **in a way that preserves the integrity of its boundary**. If a system cannot adjust its entropy export when conditions shift, its structure may degrade, even if flux is nonzero.
+A healthy system must do more than shed entropy. It must do so **in a way that preserves the integrity of its boundary**. If a system cannot adjust its entropy export when conditions shift, its structure may degrade, even if flux is nonzero.
 
 To capture this, we introduce a **boundary responsiveness factor**, $\mathcal{B}(t)$, which represents the system's ability to preserve structure while responding to stress. This factor is dimensionless and scales the effectiveness of entropy modulation at the boundary.
 
@@ -565,7 +565,7 @@ QIH is falsifiable. It generates testable predictions across domains.
 #### Predictions:
 
 1. Systems with **higher QIH** will recover more quickly from perturbation.  
-2. **Low QIH** systems will show delayed or chaotic recovery—even if baseline entropy flux is high.  
+2. **Low QIH** systems will show delayed or chaotic recovery even if baseline entropy flux is high.  
 3. Negative QIH will **precede observable breakdown** (e.g., crashes, collapses, injury).  
 4. Artificially increasing entropy export *without boundary support* will **not raise QIH**.
 
@@ -599,7 +599,7 @@ By grounding health in measurable physics, QIH opens new frontiers for diagnosti
 
 ## 7. Applications
 
-The QIH framework is designed to be domain-neutral and physically grounded. This allows it to be applied to a wide range of systems—biological, artificial, ecological, and social—using a consistent formalism.
+The QIH framework is designed to be domain-neutral and physically grounded. This allows it to be applied to a wide range of systems like biological, artificial, ecological, and social, using a consistent formalism.
 
 In this section, we describe example use cases in five categories:
 
