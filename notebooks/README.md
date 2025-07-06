@@ -30,7 +30,6 @@ $$\[
 \]$$
 
 This represents **adaptive thermodynamic capacity** — how rapidly and effectively a system can adjust its entropy export in response to demand.  
-In plain terms: not just *doing*, but *adapting*.
 
 ---
 
