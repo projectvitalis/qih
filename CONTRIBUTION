@@ -1,0 +1,22 @@
+# Contributing to QIH
+
+Thank you for your interest in contributing to the QIH Project. This repository supports an open scientific framework for modelling health.
+
+## Ways to Contribute
+
+- **Suggest improvements** to the Colab simulator or theory documentation  
+- **Report issues** related to clarity, logic, scientific grounding, or reproducibility  
+- **Submit pull requests** with example scenarios, bug fixes, or usability enhancements  
+
+## Guidelines
+
+- Keep all code Pythonic and readable (PEP8 or near)
+- Add clear units (e.g., J/K·s²) to any new functions or variables
+- Include explanations and references when proposing theoretical changes
+- Be respectful and constructive in discussions
+
+## License
+
+By contributing, you agree that your work will be licensed under the MIT License.
+
+Thank you — we are grateful for your help advancing open science.
