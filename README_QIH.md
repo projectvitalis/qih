@@ -83,7 +83,7 @@ These examples show how QIH models not only collapse, but also how they flourish
 ### Guild Papers
 Each paper applies the QIH framework to a different domain. All are written in clear, accessible language with rigorous mathematical foundations.
 
-- **Paper 01** – *Metabolic Collapse and Adaptive Recovery*: Models chronic disease through QIH  
+- **Paper 01** – *Sleep as Entropy Export Mechanism*: A model for understanding sleep through QIH  
 - **Paper 02** – *Ecosystem Collapse at the Entropic Threshold*: Models Amazon rainforest resilience  
 - **Paper 03** – *Entropy Without Organs*: Applies QIH to artificial intelligence systems  
 - **Paper 04** – *Markets at the Edge*: Uses QIH to model financial system collapse and resilience  
