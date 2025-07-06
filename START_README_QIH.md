@@ -3,6 +3,87 @@
 
 **A thermodynamic framework for understanding system health**
 
+tl;dr
+## Frequently Asked Questions (FAQ)
+
+### 1. What is QIH?
+
+**QIH** (Quantified Inference of Health) is a thermodynamically grounded signal that measures a system’s **adaptive capacity to export entropy**. It captures how effectively a system maintains internal order by offloading entropy to the environment—especially under stress or change.
+
+---
+
+### 2. Why use entropy flux instead of biological or behavioural proxies?
+
+Entropy export is a **universal, measurable quantity**. Unlike proxies (e.g. heart rate variability or cortisol), it applies across systems—humans, ecosystems, machines, markets—because it reflects the core thermodynamic behaviour of adaptation and breakdown.
+
+---
+
+### 3. How is this different from homeostasis or allostasis?
+
+- **Homeostasis** = static balance  
+- **Allostasis** = active regulation through change  
+- **QIH** = _acceleration_ of entropy export under load  
+
+QIH measures **how responsively a system adapts**, not just whether it's in balance.
+
+---
+
+### 4. What does a high or low QIH value mean?
+
+- **High QIH** → Rapid increase in entropy export  
+  (System is adapting, shedding load, or recovering)
+
+- **Low or negative QIH** → Loss of regulatory momentum  
+  (System is stiffening, depleting, or collapsing)
+
+QIH is not a measure of activity.  
+It is a measure of **thermodynamic responsiveness**.
+
+---
+
+### 5. How do I calculate QIH?
+
+To estimate QIH, define the following:
+
+| Variable             | Description                                | Units         |
+|----------------------|--------------------------------------------|---------------|
+| `dS_internal/dt`     | Rate of internal entropy generation         | J/K·s         |
+| `Φ(t)` (phi)         | Rate of entropy export to the environment   | J/K·s         |
+| `B(t)`               | Boundary responsiveness factor              | Unitless      |
+
+Then compute:
+
+```
+QIH(t) = B(t) × d²Φ(t)/dt²
+```
+
+- `Φ(t)` must be twice-differentiable over time  
+- `B(t)` modulates sensitivity based on system boundaries
+
+Final units: **Joules per Kelvin per second squared (J/K·s²)**
+
+---
+
+### 6. What kinds of systems can use QIH?
+
+Any system that:
+
+- Generates internal entropy (e.g. metabolic heat, processing load, disorder)  
+- Exports entropy to its environment (e.g. cooling, excretion, data logging)  
+- Has a semi-permeable boundary (e.g. skin, network edges, regulatory structures)
+
+QIH applies to:
+
+- 🧠 Humans and sleep states  
+- 🌲 Ecosystems and biodiversity collapse  
+- 🤖 AI agents and compute degradation  
+- 💹 Markets and volatility response  
+- 🏥 Clinical health monitoring
+
+---
+
+Want examples? Run the [QIH Simulator](https://colab.research.google.com/github/projectvitalis/qih/blob/main/qih_simulator.ipynb) in Colab or explore [example profiles](https://github.com/projectvitalis/qih/tree/main/examples) like sleep, forest fire, and AI overload.
+
 ---
 
 ## Welcome
