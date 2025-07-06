@@ -1,2 +1,2 @@
-Read the "START_README_QIH" file, then the QIH Paper, before moving into the application papers.
+Recommended order: read the "START_README_QIH" file, then "QIH-paper.md", and then move on to the application papers.
 
