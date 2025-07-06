@@ -93,6 +93,8 @@ An interactive Colab notebook lets you test and visualize the model. You can plu
 
 The simulator is a conceptual tool, not a forecasting engine. It helps you explore how a system *might behave* under different entropy conditions and does not predict what *will happen* in reality.
 
+Try the simulator here: https://colab.research.google.com/drive/17UigtKYuN057WCU6Ccf5dTo4GZdKIqH_?usp=sharing
+
 ---
 
 ## How to Use This Repository
