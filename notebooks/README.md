@@ -1,7 +1,7 @@
-Run the simulation in Colab: [open notebook](https://colab.research.google.com/drive/1CBUYUHLn_6CGM7Tzrj_faQXnR3Il297R?usp=sharing)
+Run the simulation in Colab: [open notebook](https://colab.research.google.com/drive/17UigtKYuN057WCU6Ccf5dTo4GZdKIqH_?usp=sharing)
 # QIH Simulator: Quantified Inference of Health
 
-This notebook simulates **QIH**, a thermodynamic signal of adaptive health capacity in complex systems — including humans, ecosystems, or machines.
+This notebook simulates **QIH**, a thermodynamic signal of adaptive health capacity in complex systems including humans, ecosystems, and more.
 
 QIH is defined as:
 
@@ -73,7 +73,7 @@ Use included or custom entropy profiles to simulate:
 
 ## How to Use
 
-1. Open the notebook in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1CBUYUHLn_6CGM7Tzrj_faQXnR3Il297R?usp=sharing))  
+1. Open the notebook in [Google Colab](https://colab.research.google.com/drive/17UigtKYuN057WCU6Ccf5dTo4GZdKIqH_?usp=sharing)  
 2. Modify the entropy inputs and boundary factor  
 3. Run the cells to compute and visualize QIH  
 4. Use plots and outputs to understand system resilience
