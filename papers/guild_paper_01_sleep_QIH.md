@@ -44,12 +44,12 @@ Where:
 
 - $$\( \Phi(t) \)$$: entropy flux (J/K·s), measurable through glymphatic clearance or EEG entropy slope  
 - $$\( B(t) \)$$: boundary responsiveness (dimensionless), proxied by HRV, temperature variability, or inflammation regulation  
-- $$\( frac{d^2 \Phi(t)}{dt^2} \)$$: acceleration of entropy export (J/K·s³)
+- $$\( \frac{d^2 \Phi(t)}{dt^2} \)$$: acceleration of entropy export (J/K·s³)
 
 **Units of QIH**:  
-$$
+$
 [J/K \cdot s^3]
-$$
+$
 
 High QIH reflects a system that is adaptively accelerating its entropy export which is an indicator of resilience and health.
 
