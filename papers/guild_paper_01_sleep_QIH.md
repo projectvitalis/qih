@@ -37,14 +37,14 @@ These findings show that entropy-related signals are deeply embedded in sleep ar
 We define QIH as:
 
 $$
-Q_{\mathrm{ih}}(t) = B(t) \cdot rac{d^2 \Phi(t)}{dt^2}
+Q_{\mathrm{ih}}(t) = B(t) \cdot frac{d^2 \Phi(t)}{dt^2}
 $$
 
 Where:
 
-- \( \Phi(t) \): entropy flux (J/K·s), measurable through glymphatic clearance or EEG entropy slope  
-- \( B(t) \): boundary responsiveness (dimensionless), proxied by HRV, temperature variability, or inflammation regulation  
-- \( rac{d^2 \Phi(t)}{dt^2} \): acceleration of entropy export (J/K·s³)
+- $$\( \Phi(t) \)$$: entropy flux (J/K·s), measurable through glymphatic clearance or EEG entropy slope  
+- $$\( B(t) \)$$: boundary responsiveness (dimensionless), proxied by HRV, temperature variability, or inflammation regulation  
+- $$\( frac{d^2 \Phi(t)}{dt^2} \)$$: acceleration of entropy export (J/K·s³)
 
 **Units of QIH**:  
 $$
