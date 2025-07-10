@@ -51,29 +51,29 @@ $$
 [J/K \cdot s^3]
 $$
 
-High QIH reflects a system that is adaptively accelerating its entropy export—an indicator of resilience and health.
+High QIH reflects a system that is adaptively accelerating its entropy export which is an indicator of resilience and health.
 
 ---
 
-## 4. Worked Example: Sleep Across 24 Hours
+## 4. Example: Sleep Across 24 Hours
 
 To understand how QIH reflects real-world system dynamics, we can walk through a simplified 24-hour cycle of sleep and wakefulness. This example uses illustrative values to show how entropy export and boundary responsiveness change throughout the day, and how those changes affect system health.
 
 We assume the following:
 
-- **During wakefulness**, the body and brain accumulate entropy. Neural signalling, metabolic processes, and environmental inputs all contribute to internal disorder. Entropy flux \( \Phi(t) \) is low, and boundary responsiveness \( B(t) \) is focused on outward tasks, not internal regulation. QIH is minimal or slightly negative, as disorder builds faster than it can be cleared.
+- **During wakefulness**, the body and brain accumulate entropy. Neural signalling, metabolic processes, and environmental inputs all contribute to internal disorder. Entropy flux $$\( \Phi(t) \)$$ is low, and boundary responsiveness $$\( B(t) \)$$ is focused on outward tasks, not internal regulation. QIH is minimal or slightly negative, as disorder builds faster than it can be cleared.
 
-- **As sleep onset begins**, parasympathetic tone rises, melatonin is released, and the system begins shifting inward. Glymphatic flow activates, and entropy flux \( \Phi(t) \) increases—disorder is actively being exported. If boundary responsiveness also improves (e.g. smooth circadian transitions, low inflammation), the second derivative of \( \Phi(t) \) becomes positive. QIH rises.
+- **As sleep onset begins**, parasympathetic tone rises, melatonin is released, and the system begins shifting inward. Glymphatic flow activates, and entropy flux $$\( \Phi(t) \)$$ increases. Disorder is actively being exported. If boundary responsiveness also improves (e.g. smooth circadian transitions, low inflammation), the second derivative of $$\( \Phi(t) \)$$ becomes positive. QIH rises.
 
-- **In deep sleep**, the system reaches peak efficiency in entropy clearance. Glymphatic waste removal accelerates. Brain activity slows and synchronizes. This is the most efficient phase for entropy export. \( \Phi(t) \) is high and still increasing, \( B(t) \) is strong, and QIH is at its peak. This is when recovery happens—not because sleep is restful, but because the system is effectively regulating disorder.
+- **In deep sleep**, the system reaches peak efficiency in entropy clearance. Glymphatic waste removal accelerates. Brain activity slows and synchronizes. This is the most efficient phase for entropy export. $$\( \Phi(t) \)$$ is high and still increasing, $$\( B(t) \)$$ is strong, and QIH is at its peak. This is when recovery happens. It is not because sleep is restful, but because the system is effectively regulating disorder.
 
 - **During REM cycles**, entropy flux may fluctuate as dream activity increases and boundaries become more porous. But in healthy sleep, the system maintains enough responsiveness to sustain QIH through these oscillations.
 
-- **In sleep deprivation or fragmentation**, this profile breaks down. Sleep may be too shallow, too short, or poorly timed. In this case, entropy flux does not increase fast enough, and boundary responsiveness is blunted. The system cannot accelerate disorder export. QIH remains low or negative throughout the night. As a result, the system wakes up with residual disorder—metabolic, neural, or inflammatory—and enters the next day already depleted.
+- **In sleep deprivation or fragmentation**, this profile breaks down. Sleep may be too shallow, too short, or poorly timed. In this case, entropy flux does not increase fast enough, and boundary responsiveness is blunted. The system cannot accelerate disorder export. QIH remains low or negative throughout the night. As a result, the system wakes up with residual disorder in the form of metabolic, neural, or inflammatory entropy and enters the next day already depleted.
 
 > **Health is not a fixed trait, but a dynamic process of managing disorder over time.**
 
-This is what QIH reveals—not just whether someone is sleeping, but **how well their system is accelerating entropy export in the window when it matters most.**
+In this way, QIH reveals **how well their system is accelerating entropy export in the window when it matters most.**
 
 ---
 
@@ -81,7 +81,7 @@ This is what QIH reveals—not just whether someone is sleeping, but **how well 
 
 ### Chronic Stress and Low QIH
 
-Chronic sympathetic activation lowers both \( B(t) \) and \( rac{d^2 \Phi}{dt^2} \), suppressing QIH and increasing health risk.
+Chronic sympathetic activation lowers both $$\( B(t) \)$$ and $$\( rac{d^2 \Phi}{dt^2} \)$$, suppressing QIH and increasing health risk.
 
 ### Sleep as Reset Mechanism
 
@@ -91,14 +91,10 @@ Interventions that restore circadian rhythm or deepen sleep (e.g., bright light,
 
 Wearables tracking entropy-like signals (e.g., EEG variability, HRV) may enable real-time QIH estimation and health risk modelling.
 
----
-
-## 6. Discussion
-
 QIH offers a new thermodynamic model of health. In sleep, it formalizes the role of disorder regulation, allowing measurable prediction of collapse or recovery. This unifies concepts across physiology, thermodynamics, and systems theory.
 
 ---
 
 ## 7. Conclusion
 
-Sleep is not passive—it is an active export phase for entropy. High QIH during sleep reflects a system with intact adaptability. This paper proposes QIH as a measurable and testable equation for health, grounded in the physics of disorder regulation.
+Sleep is an active export phase for entropy. High QIH during sleep reflects a system with intact adaptability. This paper proposes QIH as a measurable and testable equation for health, grounded in the physics of disorder regulation.
