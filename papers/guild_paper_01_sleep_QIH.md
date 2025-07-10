@@ -37,7 +37,7 @@ These findings show that entropy-related signals are deeply embedded in sleep ar
 We define QIH as:
 
 $$
-Q_{\mathrm{ih}}(t) = B(t) \cdot frac{d^2 \Phi(t)}{dt^2}
+Q_{\mathrm{ih}}(t) = B(t) \cdot \frac{d^2 \Phi(t)}{dt^2}
 $$
 
 Where:
@@ -81,7 +81,7 @@ In this way, QIH reveals **how well their system is accelerating entropy export 
 
 ### Chronic Stress and Low QIH
 
-Chronic sympathetic activation lowers both $$\( B(t) \)$$ and $$\( rac{d^2 \Phi}{dt^2} \)$$, suppressing QIH and increasing health risk.
+Chronic sympathetic activation lowers both $$\( B(t) \)$$ and $\frac{d^2 \Phi(t)}{dt^2}$, suppressing QIH and increasing health risk.
 
 ### Sleep as Reset Mechanism
 
